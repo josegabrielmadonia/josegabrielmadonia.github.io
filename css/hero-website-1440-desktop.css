@@ -1,0 +1,287 @@
+/* screen - hero-website-1440-desktop */
+
+.hero-website-1440-desktop {
+  background-color: #ffffff;
+  cursor: pointer;
+  height: 1024px;
+  margin: 0px;
+  min-width: 1440px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.hero-website-1440-desktop .my-portfolio-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 0px;
+  left: 134px;
+  opacity: 1;
+  position: absolute;
+  top: 4.30%;
+  width: 7.64%;
+}
+
+.hero-website-1440-desktop .my-portfolio-rRSRg2 {
+  --z-index: 0;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'NeueHaas Grotesk Display Pro-55Roman', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100% + 2px);
+  left: 0px;
+  letter-spacing: -0.40px;
+  line-height: 1px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: calc(100% + 2px);
+}
+
+.hero-website-1440-desktop .menu-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  width: calc(100% - 134px);
+}
+
+.hero-website-1440-desktop .bar-SQ9Gz0 {
+  --z-index: 0;
+  background-color: #000000;
+  height: 31px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1191px;
+}
+
+.hero-website-1440-desktop .bottom-SQ9Gz0 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/bottom-1@1x.png);
+  background-size: 100% 100%;
+  height: 10px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 21px;
+  width: 8.88%;
+}
+
+.hero-website-1440-desktop .medium-2-SQ9Gz0 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/medium-2-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 13px;
+  width: 8.88%;
+}
+
+.hero-website-1440-desktop .medium-SQ9Gz0 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/medium-1@1x.png);
+  background-size: 100% 100%;
+  height: 12px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 9px;
+  width: 8.88%;
+}
+
+.hero-website-1440-desktop .top-SQ9Gz0 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/top-1@1x.png);
+  background-size: 100% 100%;
+  height: 10px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 8.88%;
+}
+/* screen - hero-website-1440-desktop-1 */
+
+.hero-website-1440-desktop-1 {
+  background-color: #ffffff;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 1440px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.hero-website-1440-desktop-1 .component-27-2-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -690px;
+  height: 152px;
+  left: 179px;
+  opacity: 1;
+  position: absolute;
+  width: 225px;
+}
+
+.hero-website-1440-desktop-1 .my-portfolio-9PXfxm {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -30px;
+  color: #000000;
+  font-family: 'NeueHaas Grotesk Display Pro-25Thin', Helvetica;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 100;
+  height: 60px;
+  left: 3px;
+  letter-spacing: -1.30px;
+  line-height: 2px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100% - 1px);
+}
+
+.hero-website-1440-desktop-1 .my-portfolio-oMVnPN {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'AcuminPro ExtraCondensed-Thin', Helvetica;
+  font-size: 93px;
+  font-style: normal;
+  font-weight: 100;
+  height: 95px;
+  left: 0px;
+  letter-spacing: -2.33px;
+  line-height: 3px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: calc(100% - 5px);
+}
+
+.hero-website-1440-desktop-1 .component-28-2-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -1333px;
+  height: 795px;
+  opacity: 1;
+  position: absolute;
+  right: 70px;
+  width: 859px;
+}
+
+.hero-website-1440-desktop-1 .rectangle-20-C1cFw6 {
+  --z-index: 0;
+  background-color: #6a6a6a;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.hero-website-1440-desktop-1 .menu-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  width: calc(100% - 134px);
+}
+
+.hero-website-1440-desktop-1 .bar-SQ9Gz0 {
+  --z-index: 0;
+  background-color: #000000;
+  height: 31px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1182px;
+}
+
+.hero-website-1440-desktop-1 .bottom-SQ9Gz0 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/bottom@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 26px;
+  width: 8.88%;
+}
+
+.hero-website-1440-desktop-1 .medium-2-SQ9Gz0 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/medium-2-1@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 13px;
+  width: 8.88%;
+}
+
+.hero-website-1440-desktop-1 .medium-SQ9Gz0 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/bottom@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 13px;
+  width: 8.88%;
+}
+
+.hero-website-1440-desktop-1 .top-SQ9Gz0 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/bottom@1x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 8.88%;
+}
